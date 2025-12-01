@@ -12,7 +12,9 @@ The project includes data preprocessing, training three transfer-learning models
 Classify car images into their make/model/year (196 classes) and compare the performance of three CNN architectures:
 
 - ResNet50
+  
 - InceptionV3
+  
 - EfficientNetB0
 
 ---
